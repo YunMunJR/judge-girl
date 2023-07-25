@@ -1,5 +1,6 @@
 # Task Description
-Write a program to compute the surface area and the volume of this box.
+Write a program to compute the surface area and the volume of this box.<br>
+![](Basic IO and Arithmetic/27. Surface Area and Volume of a Box/p27.png)
 # Input Format
 There are five lines in the input for a,b,c,d, and e, respectively.
 # Output Format
