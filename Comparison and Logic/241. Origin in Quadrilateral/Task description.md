@@ -46,4 +46,4 @@ $y_3−y_1$
 $y_2−y_1$
 )(
 $x_3−x_1$
-) ...
+) ... (https://en.wikipedia.org/wiki/Cross_product#Computational_geometry)
