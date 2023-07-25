@@ -3,7 +3,8 @@ Given a convex quadrilateral Q, please determine if the origin (0,0) is with Q. 
 (2,1), (−1,2), (−2,−1), and (−1,−3) then the answer is yes. If Q is (12,1), (9,2), (8,−1), and (9,−3) then the <br>
 answer is no. <br>
 給一個凸四邊形 Q 的四個頂點座標，請問原點 (0,0) 是否在四邊形內部，如果原點在四邊形內部，輸出 <br>
-1，反之，請輸出 0。
+1，反之，請輸出 0。<br>
+![pic1](https://github.com/WjrHyl/judge-girl/blob/main/Comparison%20and%20Logic/241.%20Origin%20in%20Quadrilateral/p241-ex1.png)
 # Input
 The input consists of eight integers, a,b,c,d,e,f,g, and h, representing the four corners (a,b),(c,d),(e,f), and <br>
 (g,h) in counterclockwise order. It is guaranteed that the four sides of the Q will not be parallel to either x or y axis, <br>
