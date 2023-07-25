@@ -5,7 +5,7 @@ answer is no. <br>
 給一個凸四邊形 Q 的四個頂點座標，請問原點 (0,0) 是否在四邊形內部，如果原點在四邊形內部，輸出 <br>
 1，反之，請輸出 0。<br>
 ![pic1](https://github.com/WjrHyl/judge-girl/blob/main/Comparison%20and%20Logic/241.%20Origin%20in%20Quadrilateral/p241-ex1.png)<br>
-p241-example 1: origin in Q <br>
+p241-example 1: origin in Q <br><br>
 ![pic2](https://github.com/WjrHyl/judge-girl/blob/main/Comparison%20and%20Logic/241.%20Origin%20in%20Quadrilateral/p241-ex2.png)<br>
 p241-example 2: origin not in Q <br>
 # Input
