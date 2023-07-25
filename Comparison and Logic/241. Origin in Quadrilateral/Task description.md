@@ -53,13 +53,13 @@ $x_3−x_1$
 ) ... (https://en.wikipedia.org/wiki/Cross_product#Computational_geometry) <br><br>
 For sample input 1, we get four vectors
 $\vec{a}$
-=(2,1),
+= ( 2 , 1 ),
 $\vec{b}$
-=(−1,2),
+= ( −1 , 2 ),
 $\vec{c}$
-=(−2,−1),
+= ( −2 , −1 ),
 $\vec{d}$
-=(−1,−3).<br>
+= ( −1 , −3 ).<br>
 Origin in Q if and only if it must satisfy that
 $\vec{a}\times\vec{b}$
 =
