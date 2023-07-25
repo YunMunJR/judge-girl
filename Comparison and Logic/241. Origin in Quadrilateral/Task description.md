@@ -46,4 +46,43 @@ $y_3−y_1$
 $y_2−y_1$
 )(
 $x_3−x_1$
-) ... (https://en.wikipedia.org/wiki/Cross_product#Computational_geometry)
+) ... (https://en.wikipedia.org/wiki/Cross_product#Computational_geometry) <br>
+For sample input 1, we get four vectors
+$\vec{a}$
+=(2,1),
+$\vec{b}$
+=(−1,2),
+$\vec{c}$
+=(−2,−1),
+$\vec{d}$
+=(−1,−3).<br>
+Origin in Q if and only if it must satisfy that
+$\vec{a}\times\vec{b}$
+=
+$2\cdot2$
+−
+$1\cdot\(−1)$
+=5>0,
+$\vec{b}\times\vec{c}$
+=
+$(−1)\cdot\(−1)$
+−
+$2\cdot\(−1)$
+=3>0
+,
+$\vec{c}\times\vec{d}$
+=
+$(−2)\cdot\(−3)$
+−
+$(−1)\cdot\(−1)$
+=3>0, and
+$\vec{d}\times\vec{a}$
+=
+$(−1)\cdot\(1)$
+−
+$(−3)\cdot\(2)$
+=5>0
+# Hint 2
+(https://en.wikipedia.org/wiki/Point_in_polygon#Ray_casting_algorithm)
+# Hint 3
+Area summation method (Note: Be careful about arithmetic overflow)
