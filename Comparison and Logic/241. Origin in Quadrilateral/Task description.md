@@ -46,7 +46,7 @@ $y_3−y_1$
 $y_2−y_1$
 )(
 $x_3−x_1$
-) ... (https://en.wikipedia.org/wiki/Cross_product#Computational_geometry) <br>
+) ... (https://en.wikipedia.org/wiki/Cross_product#Computational_geometry) <br><br>
 For sample input 1, we get four vectors
 $\vec{a}$
 =(2,1),
@@ -62,26 +62,26 @@ $\vec{a}\times\vec{b}$
 $2\cdot2$
 −
 $1\cdot\(−1)$
-=5>0,
+= 5 > 0,
 $\vec{b}\times\vec{c}$
 =
 $(−1)\cdot\(−1)$
 −
 $2\cdot\(−1)$
-=3>0
+= 3 > 0
 ,
 $\vec{c}\times\vec{d}$
 =
 $(−2)\cdot\(−3)$
 −
 $(−1)\cdot\(−1)$
-=3>0, and
+= 3 > 0, and
 $\vec{d}\times\vec{a}$
 =
 $(−1)\cdot\(1)$
 −
 $(−3)\cdot\(2)$
-=5>0
+= 5 > 0
 # Hint 2
 (https://en.wikipedia.org/wiki/Point_in_polygon#Ray_casting_algorithm)
 # Hint 3
