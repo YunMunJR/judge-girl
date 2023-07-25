@@ -6,6 +6,8 @@ answer is no. <br>
 1，反之，請輸出 0。<br>
 ![pic1](https://github.com/WjrHyl/judge-girl/blob/main/Comparison%20and%20Logic/241.%20Origin%20in%20Quadrilateral/p241-ex1.png)<br>
 p241-example 1: origin in Q <br>
+![pic2](https://github.com/WjrHyl/judge-girl/blob/main/Comparison%20and%20Logic/241.%20Origin%20in%20Quadrilateral/p241-ex2.png)<br>
+p241-example 2: origin not in Q <br>
 # Input
 The input consists of eight integers, a,b,c,d,e,f,g, and h, representing the four corners (a,b),(c,d),(e,f), and <br>
 (g,h) in counterclockwise order. It is guaranteed that the four sides of the Q will not be parallel to either x or y axis, <br>
