@@ -1,27 +1,27 @@
 # Task Description
 Given a convex quadrilateral Q, please determine if the origin (0,0) is with Q. For example, if Q has four corners <br>
-(2,1), (−1,2), (−2,−1), and (−1,−3) then the answer is yes. If Q is (12,1), (9,2), (8,−1), and (9,−3) then the <br>
+( 2 , 1 ), ( −1 , 2 ), ( −2 , −1 ), and ( −1 , −3 ) then the answer is yes. If Q is ( 12 , 1 ) , ( 9 , 2 ) , ( 8 , −1 ) , and ( 9 , −3 ) then the <br>
 answer is no. <br>
-給一個凸四邊形 Q 的四個頂點座標，請問原點 (0,0) 是否在四邊形內部，如果原點在四邊形內部，輸出 <br>
+給一個凸四邊形 Q 的四個頂點座標，請問原點 ( 0 , 0 ) 是否在四邊形內部，如果原點在四邊形內部，輸出 <br>
 1，反之，請輸出 0。<br>
 ![pic1](https://github.com/WjrHyl/judge-girl/blob/main/Comparison%20and%20Logic/241.%20Origin%20in%20Quadrilateral/p241-ex1.png)<br>
 p241-example 1: origin in Q <br><br>
 ![pic2](https://github.com/WjrHyl/judge-girl/blob/main/Comparison%20and%20Logic/241.%20Origin%20in%20Quadrilateral/p241-ex2.png)<br>
 p241-example 2: origin not in Q <br>
 # Input
-The input consists of eight integers, a,b,c,d,e,f,g, and h, representing the four corners (a,b),(c,d),(e,f), and <br>
-(g,h) in counterclockwise order. It is guaranteed that the four sides of the Q will not be parallel to either x or y axis, <br>
+The input consists of eight integers, a, b, c, d, e, f, g, and h, representing the four corners ( a , b ) , ( c , d ) , ( e , f ) ,  and <br>
+( g , h ) in counterclockwise order. It is guaranteed that the four sides of the Q will not be parallel to either x or y axis, <br>
 and will not contain the origin. The absolute value of all numbers is no more than 100. <br>
-輸入包含八個整數 a,b,c,d,e,f,g,h，按照逆時針順序給定座標 (a,b),(c,d),(e,f),(g,h)。請注意：四邊形 <br>
+輸入包含八個整數 a, b, c, d, e, f, g, h，按照逆時針順序給定座標 ( a , b ) , ( c , d ) , ( e , f ) , ( g , h )。請注意：四邊形 <br>
 的邊不一定平行於座標兩軸，座標的絕對值小於等於 100。
 # Output
 The output is either 1 or 0, representing that the origin is within or not within Q.
 # Sample Input 1
-2 1 -1 2 -2 -1 -1 -3
+2  1  -1  2  -2  -1  -1  -3
 # Sample Output 1
 1
 # Sample Input 2
-12 1 9 2 8 -1 9 -3
+12  1  9  2  8  -1  9  -3
 # Sample Output 2
 0
 # Hint 1
