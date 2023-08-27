@@ -7,3 +7,11 @@
 特別注意  getmyheart()  的前兩行  secret(); 、 test_heart();  不需要更動，用來輸出 Morris 的秘密 <br>
 以及測試你寫的  madd()  和  msub  的函數是否正確。Morris 藏在  singletest.c  的秘密不需理會。<br>
 >AC 的通關密語當然要讓 Morris 說出秘密！
+## main.c
+![main.c](https://github.com/WjrHyl/judge-girl/blob/main/Advanced/10043.%20Advanced%20Function%20Pointer/main.c)
+## myint.h
+![myint.h](https://github.com/WjrHyl/judge-girl/blob/main/Advanced/10043.%20Advanced%20Function%20Pointer/myint.h)
+## myint.c
+![myint.c](https://github.com/WjrHyl/judge-girl/blob/main/Advanced/10043.%20Advanced%20Function%20Pointer/myint.c)
+## singletest.c
+![singletest.c](https://github.com/WjrHyl/judge-girl/blob/main/Advanced/10043.%20Advanced%20Function%20Pointer/singletest.c)
