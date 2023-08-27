@@ -9,7 +9,6 @@
 - void package(Doll *outer, Doll *inter); <br>
 將一個小的俄羅斯娃娃放進大的裡面。 
 - const char* doll_c_str(Doll *doll); <br>
-將一個俄羅斯娃娃內部訊息用括弧表示法輸出，回傳字串的起始位置。 <br>
-![main.c (test)](https://github.com/WjrHyl/judge-girl/blob/main/Advanced/10078.%20Matryoshka%20Doll/main.c) <br>
+將一個俄羅斯娃娃內部訊息用括弧表示法輸出，回傳字串的起始位置。 
 # Sample Output
 <(@>)~
