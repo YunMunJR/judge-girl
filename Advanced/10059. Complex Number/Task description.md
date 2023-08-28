@@ -1,5 +1,9 @@
 # 題目描述
+<<<<<<< HEAD
 實作複數加法、減法、乘法。令 i= $\sqrt{-1}$
+=======
+實作複數加法、減法、乘法。令 i= $\sqrt{-1}$ 
+>>>>>>> 4d20e703b76d7c35de657e369526a28b0361aa33
 # main.c
 ![main.c](https://github.com/WjrHyl/judge-girl/blob/main/Advanced/10059.%20Complex%20Number/main.c)
 # complex.h
