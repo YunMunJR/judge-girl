@@ -28,7 +28,6 @@ int bNode_init(bNode* self) {
     return 1;
 }
 void bNode_destroy(bNode* obj) {
-    //free(obj->extra);
 }
 
 Object bNodeProto = {
