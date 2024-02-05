@@ -94,8 +94,7 @@ void print(treenode*root,int totalndnum,char* last,int *num,int* cnum){
         }
         *last=root->c;
         *cnum=root->cnum;
-    }
-    else{
+    }else{
         (*cnum)+=root->cnum;
     }
     (*num)+=root->cnum;
