@@ -85,8 +85,7 @@ int main() {
         for(int j=0;j<n;j++){
             if(tower[0][i][j]=='0'){
                 re[i][j]++;
-            }
-            else{
+            }else{
                 for(int k=0;tower[k][i][j]!='0';k++){
                     str[k]=tower[k][i][j];
                     re[i][j]++;
@@ -114,14 +113,18 @@ int main() {
         }
     }
     free(heaparray);
-    for(int i=0;i<n;i++)free(re[i]);
+    for(int i=0;i<n;i++){
+        free(re[i]);
+    }
     free(re);
     for(int i=0;i<m;i++){
         for(int j=0;j<n;j++){
             free(tower[i][j]);
         }
     }
-    for(int i=0;i<m;i++)free(tower[i]);
+    for(int i=0;i<m;i++){
+        free(tower[i]);
+    }
     free(tower);
     return 0;
 }

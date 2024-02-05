@@ -26,21 +26,21 @@ int main(){
             } 
             r-=(ra*(end-start-1));
             for(int i=start;i<end-1;i++){     
-                printf("%s",s[i%128]);
+                fputs(s[i%128],stdout);
                 if(i-start<r){
-                    printf(" ");
+                    putchar(' ');
                 }
                 for(int i=0;i<ra;i++){
-                    printf(" ");       
+                    putchar(' ');       
                 }    
             }         
-            printf("%s",s[(end-1)%128]);
+            fputs(s[(end-1)%128],stdout);
             if(start==end-1){
                 for(int i=0;i<totallen-len+(end-start);i++){
-                    printf(" ");
+                    putchar(' ');
                 }    
             }
-            printf("\n");
+            putchar('\n');
             len=slen;
             start=cc;
         }
@@ -55,21 +55,21 @@ int main(){
     }    
     r-=(ra*(end-start-1));
     for(int i=start;i<end-1;i++){     
-        printf("%s",s[i%128]);
+        fputs(s[i%128],stdout);
         if(i-start<r){
-            printf(" ");
+            putchar(' ');
         }
         for(int i=0;i<ra;i++){
-            printf(" ");       
+            putchar(' ');      
         }    
     }
-    printf("%s",s[(end-1)%128]);
+    fputs(s[(end-1)%128],stdout);
     if(start==end-1){
         for(int i=0;i<totallen-len+(end-start);i++){
-            printf(" ");
+            putchar(' ');
         }    
     }
-    printf("\n");
+    putchar('\n');
     free(buf);
     return 0;
 }

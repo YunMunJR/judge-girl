@@ -113,8 +113,7 @@ int main(){
                         hash[idx1][ii].x=re.x1;
                         hash[idx1][ii].y=re.y1;
                         hash[idx1][ii].z=re.z1;
-                        hash[idx1][ii].empty=0;
-                        
+                        hash[idx1][ii].empty=0;            
                         break;
                     }
                 }

@@ -25,19 +25,16 @@ int main(){
     while(scanf("%s",cmd)!=EOF){   
         if(!strcmp(cmd,"insert")){
             scanf("%s",i.cmd);
-            i.cmd[strlen(i.cmd)]='\0';
             scanf("%s",i.c); 
             if(i.cmd[0]>='a'&&i.cmd[0]<='z'){
                 if(!strcmp(i.cmd,"left")){
                     sprintf(s3,"%s%s",i.c,s);
                     strcpy(s,s3);        
-                }
-                else {
+                }else {
                     sprintf(s3,"%s%s",s,i.c);
                     strcpy(s,s3);             
                 }
-            }      
-            else{
+            }else{
                 int n,len=strlen(s);
                 sscanf(i.cmd,"%d",&n);
                 for(int i=0;i<n-1;i++){
@@ -50,8 +47,7 @@ int main(){
                 s2[len+1]='\0';
                 strcpy(s,s2);
             }
-        }
-        else{
+        }else{
             int len=strlen(s);
             char c;
             scanf("%s",d.cmd);
@@ -63,12 +59,10 @@ int main(){
                     }
                     s3[len-1]='\0';
                     strcpy(s,s3);
-                }
-                else{
+                }else{
                     s[len-1]='\0';
                 }
-            }       
-            else{
+            }else{
                 int n;
                 sscanf(d.cmd,"%d",&n);
                 for(int i=0;i<n-1;i++){
@@ -82,14 +76,12 @@ int main(){
             }
         }
     }
-    fprintf(stderr,"%s\n",s);
     n=1;
     int len=strlen(s),maxx=0;
     for(int i=1;i<len;i++){
         if(s[i]==s[i-1]){
             n++;
-        }
-        else{          
+        }else{          
             a[(int)s[i-1]-'a']=max(a[(int)s[i-1]-'a'],n);
             n=1;
         }
@@ -103,17 +95,17 @@ int main(){
         for(int i=1;i<len;i++){
             if(s[i]==s[i-1]){
                 n++;
-            }
-            else{
+            }else{
                 if(maxx==n){
                     printf("%c ",s[i-1]);
                 }
                 n=1;
             }
         }
-        if(maxx==n)printf("%c ",s[len-1]);
-    }
-    else if(len==1)printf("%c ",s[0]);
+        if(maxx==n){
+            printf("%c ",s[len-1]);
+        }
+    }else if(len==1)printf("%c ",s[0]);
     printf("%d",maxx);
     return 0;
 }
