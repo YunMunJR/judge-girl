@@ -16,7 +16,7 @@ void exe(data map[11][11],int mine[11][11],int c,int r){
 }
 int solve(data map[11][11],int mine[11][11],int idx,int put){
     int c=(idx/9)+1,r=(idx%9)+1;
-    int col=(idx+18)/9+1,row=(idx+18)%9+1;
+    int col=c+2,row=r;
     if(put){
         mine[c][r]++;
         int fail=0;
