@@ -2,7 +2,7 @@
 #include <stdlib.h>
 int main(int argc, char *argv[]) {
     int s,f,t;
-    scanf("%d%d%d",&s,&f,&t);
+    scanf("%d %d %d",&s,&f,&t);
     if(t<=s){
         int crab=s-t;
         f=f-8*crab;
@@ -12,11 +12,11 @@ int main(int argc, char *argv[]) {
             printf("%d\n",chick);
             printf("%d\n",rabbit);
             printf("%d\n",crab);
-        }else{
+        }else
             fputs("0\n",stdout);
-        }    
     }else{
         fputs("0\n",stdout);
     }
+    
     return 0;
 }

@@ -8,7 +8,5 @@ int main(int argc, char** argv) {
     int vol = a * b * c - 2 * d * (a_ * b_ + b_ * c_ + c_ * a_);
     printf("%d\n", out_area+in_area);
     printf("%d\n",vol);
- 
-
     return 0;
 }

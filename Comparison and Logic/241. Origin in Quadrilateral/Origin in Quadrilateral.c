@@ -10,9 +10,9 @@ int main(int argc, char *argv[]) {
     }  
     a[11]=a[6]*a[1]-a[0]*a[7];
     if(a[8]>0&&a[9]>0&&a[10]>0&&a[11]>0){
-        printf("1\n");
+        fputs("1\n",stdout);
     }else{
-        printf("0\n");
-    }   
+        fputs("0\n",stdout);
+    }
     return 0;
 }

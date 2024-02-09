@@ -3,9 +3,9 @@ int main(int argc, char** argv) {
     int a,b,c;
     scanf("%d %d %d",&a,&b,&c);
     if(a+b>c&&b+c>a&&c+a>b){
-        printf("1\n");
+        fputs("1\n",stdout);
     }else{
-        printf("0\n");
+        fputs("0\n",stdout);
     }
     return 0;
 }

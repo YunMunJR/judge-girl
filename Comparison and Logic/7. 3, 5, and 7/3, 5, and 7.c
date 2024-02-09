@@ -3,10 +3,9 @@
 int main(int argc, char *argv[]) {
     int n;
     scanf("%d",&n);
-    if(n%15==0&&n%7!=0)
-    {
-        printf("0\n");
+    if(n%15==0&&n%7!=0){
+        fputs("0\n",stdout);
     }else{
-        printf("1\n");
+        fputs("1\n",stdout);
     }
 }
