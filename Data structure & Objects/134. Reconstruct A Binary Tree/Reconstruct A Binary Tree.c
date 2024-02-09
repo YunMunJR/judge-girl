@@ -116,9 +116,7 @@ int main(){
         else{
             printf("%d", d[idx1].level + d[idx2].level - 2);
         }
-        if (i != p - 1){
-            putchar('\n');
-        }
+        (i != p - 1)&&putchar('\n');
     }
     freetree(root);
 }

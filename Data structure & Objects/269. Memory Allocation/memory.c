@@ -17,7 +17,7 @@ void initMemory(Memory* memory, int length) {
  
 void printMemory(Memory* memory) {
     Memory* ptr = memory->next;
-    printf("==========\n");
+    fputs("==========\n",stdout);
     while (ptr) {      
         printf("start %d, length %d\n", ptr->start, ptr->length);
         ptr = ptr->next;
