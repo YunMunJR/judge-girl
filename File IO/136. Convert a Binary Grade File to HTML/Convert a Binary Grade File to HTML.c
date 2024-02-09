@@ -50,4 +50,5 @@ int main() {
     fread(buf, sizeof(char), 1 << 15, fp_);
     printf("%s", buf);
     fclose(fp_);
+    return 0;
 }

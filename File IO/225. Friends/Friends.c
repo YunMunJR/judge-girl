@@ -61,4 +61,5 @@ int main(){
         scanf("%s", cmd);
     }
     fclose(fp);
+    return 0;
 }

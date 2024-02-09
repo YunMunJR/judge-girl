@@ -35,4 +35,5 @@ int main(){
     printf("%d\n", maxidx - 32768);
     printf("%d", arr[maxidx]);
     fclose(fp);
+    return 0;
 }
