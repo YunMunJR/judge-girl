@@ -34,7 +34,7 @@ int main(){
     int* ptr[10][256 * 256];
     scanf("%c", &ch);
     for (int i = 0; i < n; i++){
-        scanf("%s", players[i], 65);
+        scanf("%s", players[i]);
         for (int j = 0; j < m; j++){
             for (int k = 0; k < m; k++){
                 scanf("%d", &a[i][j][k]);
@@ -76,7 +76,7 @@ int main(){
         }
         if (playnum != 0){
             break;
-        }     
+        }    
     }
     return 0;
 }
