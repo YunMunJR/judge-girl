@@ -13,7 +13,7 @@ int main(int argc, char *argv[]) {
     int n,m,i,j,sum=0;
     scanf("%d%d",&n,&m);
     for(i=0;i<=m;i++){
-        sum+=factorial(n,i)/factorial(i,i-1);
+        sum+=(factorial(n,i)/factorial(i,i-1));
     }
     printf("%d",sum);
     return 0;

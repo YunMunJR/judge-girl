@@ -10,16 +10,16 @@ int main(int argc, char *argv[]) {
                 if(j==0||i==0){
                     break;
                 }
-                i=i%j;
+                i%=j;
                 if(j==0||i==0){
                     break;
                 }
-                j=j%i;
+                j%=i;
             }
             if(i!=0){
-                lcm=lcm*digit/i;
+                lcm*=digit/i;
             }else{
-                lcm=lcm*digit/j;
+                lcm*=digit/j;
             }
         }else{
             i=lcm;
@@ -28,16 +28,16 @@ int main(int argc, char *argv[]) {
                 if(j==0||i==0){
                     break;
                 }
-                j=j%i;
+                j%=i;
                 if(j==0||i==0){
                     break;
                 }  
-                i=i%j;    
+                i%=j;    
             }
             if(i!=0){
-                lcm=lcm*digit/i;
+                lcm*=digit/i;
             }else{
-                lcm=lcm*digit/j;
+                lcm*=digit/j;
             }
         }
     }
