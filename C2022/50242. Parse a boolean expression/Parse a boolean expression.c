@@ -40,7 +40,7 @@ int expression(char* table[],char s[501][6],int start,int end){
             return 0;
         }
     }
-    int newstart1=start+1,newend1,newstart2,newend2=end-1;
+    int newstart1=start+1,newend1,newstart2,newend2;
     int f1=1,f2=1,re1,re2;
     char comp[6];
     if(find(table,s[newstart1])==0){
