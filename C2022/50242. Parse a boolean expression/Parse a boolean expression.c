@@ -60,12 +60,11 @@ int expression(char* table[],char s[501][6],int start,int end){
         if(find(table,s[newstart1])==3){
             newend1=findexpression(table,s,newstart1);
             newstart2=newend1+2;
-            re1=expression(table,s,newstart1,newend1);
         }else if(find(table,s[newstart1])==5||find(table,s[newstart1])==6){
             newend1=newstart1;
-            newstart2=newstart1+2;
-            re1=expression(table,s,newstart1,newend1);
+            newstart2=newstart1+2;   
         }
+        re1=expression(table,s,newstart1,newend1);
     }
     assert((newstart2=newend1+2)&&(!strcmp(s[newend1+1],"&&")||!strcmp(s[newend1+1],"||")));
     strcpy(comp,s[newend1+1]);
@@ -83,12 +82,11 @@ int expression(char* table[],char s[501][6],int start,int end){
     }else{
         if(find(table,s[newstart2])==3){
             newend2=findexpression(table,s,newstart2);
-            re2=expression(table,s,newstart2,newend2);
         }
         else if(find(table,s[newstart2])==5||find(table,s[newstart2])==6){
             newend2=newstart2;
-            re2=expression(table,s,newstart2,newend2);
         }
+        re2=expression(table,s,newstart2,newend2);
     }
     if(!strcmp(comp,"&&")){
         return re1&&re2;
