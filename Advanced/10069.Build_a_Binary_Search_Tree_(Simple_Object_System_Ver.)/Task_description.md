@@ -49,5 +49,6 @@ gcc main.c basic_node.c bst_node.c object.c -std=c99
 ## object.c
 ![object.c](https://github.com/YunMunJR/judge-girl/blob/main/Advanced/10069.Build_a_Binary_Search_Tree_(Simple_Object_System_Ver.)/object.c)
 # 後記
-- 參考![Learn C The Hard Way](https://learncodethehardway.org/c/) <br>
+- 參考![Learn C The Hard Way](https://learncodethehardway.org/c/)
+
 上述寫法用在 Singleton 比較好，用來寫 node 過於肥大。 `free()`  的時候請特別小心，這會與當初  `malloc`一整塊<br>空間一起回收，別總是利用限有的空間配置！
