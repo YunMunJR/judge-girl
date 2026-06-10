@@ -3,7 +3,7 @@
 # main.c
 ![main.c](https://github.com/WjrHyl/judge-girl/blob/main/Advanced/10059.%20Complex%20Number/main.c)
 # complex.h
-![complex.h](https://github.com/WjrHyl/judge-girl/blob/main/Advanced/10059.%20Complex%20Number/complex.h)
+![complex.h](https://github.com/YunMunJR/judge-girl/blob/main/Advanced/10059.Complex_Number/template-complex.h)
 # Sample Input
 ```
 0 3 2 1 4 
