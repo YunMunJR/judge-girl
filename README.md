@@ -1,2 +1,2 @@
-# 我judge-girl大燒雞
-我不會批改娘，我弱
+# Judge-girl problems
+Contains problems, provided codes, and my solutions
