@@ -16,3 +16,5 @@
 ```
 # Hint
 如何本機測試？打開執行檔，手動輸入完後按下 `Ctrl + Z + Enter` 或者直接使用 `./a.out <test.in` 測試。
+# Testdata Set
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Advanced/10006.Sum_of_Integers/p10006_testdata)
