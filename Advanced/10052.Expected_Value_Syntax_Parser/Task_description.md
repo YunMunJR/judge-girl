@@ -3,7 +3,7 @@
 - ⟨expr⟩&rarr;integer 
 直接表示成一個整數，或者
 - ⟨expr⟩&rarr;($p$ ⟨expr1⟩ ⟨expr2⟩)
-回傳 $E$(⟨expr⟩)=$p$&times;(⟨expr1⟩+⟨expr2⟩)+(1−$p$)&times;(⟨expr1⟩−⟨expr2⟩)
+回傳 $E$(⟨expr⟩)= $p$ &times;(⟨expr1⟩+⟨expr2⟩)+(1− $p$)&times;(⟨expr1⟩−⟨expr2⟩)
 ![flowchart](flowchart.png)
 # 輸入格式
 有多組測資，每組測資一行。
