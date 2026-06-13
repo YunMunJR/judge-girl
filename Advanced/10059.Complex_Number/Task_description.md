@@ -21,4 +21,6 @@
 float a, b;
 printf("%.3f%+.3fi\n", a, b);
 ```
+# Testdata Set
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Advanced/10059.Complex_Number/p10059_testdata)
 
