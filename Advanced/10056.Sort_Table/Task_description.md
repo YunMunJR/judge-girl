@@ -20,12 +20,13 @@ A 表單為 <br>
 > ```
 ## 實作細節
 接下來，你需要實作以下三個 function<br>
-- `void init(ExamTable *self, int n);`
+- `void init(ExamTable *self, int n);`<br>
 初始化某個表單且成績欄位恰好 n 個。
-- `void addrow(ExamTable *self, char *name, int score[]);`
+- `void addrow(ExamTable *self, char *name, int score[]);`<br>
 增加某個表單的資料。
-- `void print(ExamTable *self, int order[]);`
+- `void print(ExamTable *self, int order[]);`<br>
 根據 order 給定的順序進行排序後輸出。若成績都一樣，最後按照名字字典順序由小排到大。請參考範例輸出。
+## main.c
 ![main.c](https://github.com/YunMunJR/judge-girl/blob/main/Advanced/10056.Sort_Table/main.c)
 # 輸入格式
 第一行有一個整數 $n$ 表示有 $n$ 個表單，第二行上有 n 個整數，分別表示 $table0, table1, ..., tablen−1$ 的成績欄位數 #$field$<sub>$i$</sub>，第三行會有一個整數 $q$，表示接下來的操作次數。<br>
@@ -73,3 +74,5 @@ pangfeng, 100, 100, 99
 ```
 # Hint
 全部透過實作 function 的輸出和回傳值進行測試，不管你實作的 struct 細節。
+# Testdata Set
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Advanced/10056.Sort_Table/p10056_testdata)
