@@ -1,0 +1,23 @@
+# Task Description
+收銀機只有 1000, 500, 100, 50, 10, 5, 1 這 7 種面值的紙鈔和硬幣，最小化所有面值的數量。
+# Input Format
+輸入有多組測資，每一組只會有一個整數 N，滿足 $0≤N≤2^{31}−1$。
+# Output Format
+對於每一組測資輸出一行七個整數，分別為 1000, 500, 100, 50, 10, 5, 1 的數量。
+# Sample Input
+```
+1234
+```
+# Sample Output
+```
+1 0 2 0 3 0 4
+```
+# Hint
+多組測資 
+```
+1234
+5678
+10
+```
+# Testdata Set
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Advanced/10008.Coin_and_Paper_Moneny/p10008_testdata)
