@@ -26,4 +26,6 @@ SLEE
 SLEEP
 ```
 # 提示
-排序 or 其他
+排序 or 
+# Testdata Set
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Advanced/10032.String_Subset/p10032_testdata)
