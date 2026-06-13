@@ -11,7 +11,7 @@ Morris 休假，部分題目測資由以前助教生的，若有測資過於困�
 ## Limit
 - $1≤N≤100$
 - $1≤M≤100$
-- $0≤ $ S<sub>n</sub> $≤100$
+- $0≤$ S<sub>n</sub> $≤100$
 # Output Format
 對每一組測資，推論出詢問的答題總成績，若發生輸入本身矛盾，則輸出 `contradictory`，如果無法推斷出唯一解則輸<br>出 `not sure`，反之輸出四捨五入到整數的成績。
 # Sample Input
