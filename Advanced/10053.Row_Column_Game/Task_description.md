@@ -74,3 +74,5 @@ Morris 和他腦中的小伙伴玩遊戲，遊戲在一個 $n×n$ 的盤面中�
 4 5 6
 ```
 先手沒得選，進入中盤計分。先手得分 12=2+9+1，後手得分 18=8+3+7，宣告後手獲勝。
+# Testdata Set
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Advanced/10053.Row_Column_Game/p10053_testdata)
