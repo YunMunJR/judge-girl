@@ -14,3 +14,5 @@
 ![myint.c](https://github.com/WjrHyl/judge-girl/blob/main/Advanced/10043.%20Advanced%20Function%20Pointer/myint.c)
 ## singletest.c
 ![singletest.c](https://github.com/WjrHyl/judge-girl/blob/main/Advanced/10043.%20Advanced%20Function%20Pointer/singletest.c)
+# Testdata Set
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Advanced/10043.Advanced_Function_Pointer/p10043_testdata)
