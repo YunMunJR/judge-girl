@@ -14,4 +14,8 @@
 ## main.c (test)
 ![main.c](https://github.com/WjrHyl/judge-girl/blob/main/Advanced/10078.%20Matryoshka%20Doll/main.c)
 # Sample Output
+```
 <(@>)~
+```
+# Testdata Set
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Advanced/10078.Matryoshka_Doll/p10078_testdata)
