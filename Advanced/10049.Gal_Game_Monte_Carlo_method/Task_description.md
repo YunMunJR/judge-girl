@@ -47,7 +47,7 @@ Case #3:
 40
 ```
 # 範例解釋
-![explain](explain.png)
+![explain](explain.png)<br>
 機率計算方式： $\frac{可以觸發的面積}{總面積}$
 # 提示
 - 蒙地卡羅模擬法 ![wiki](https://en.wikipedia.org/wiki/Monte_Carlo_method) 即可通過，增加取樣點到一定程度就可以通過。
