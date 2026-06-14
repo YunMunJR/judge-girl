@@ -52,3 +52,5 @@ gcc main.c basic_node.c bst_node.c object.c -std=c99
 - 參考![Learn C The Hard Way](https://learncodethehardway.org/c/)
 
 上述寫法用在 Singleton 比較好，用來寫 node 過於肥大。 `free()`  的時候請特別小心，這會與當初  `malloc`一整塊<br>空間一起回收，別總是利用限有的空間配置！
+# Testdata Set
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Advanced/10118.Make_a_List/p10118_testdata)
