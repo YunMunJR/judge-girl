@@ -14,5 +14,5 @@ There is one line in the output. The line has the sum of $a$, $b$, and $c$.
 ```
 6
 ```
-# Testdata
+# Testdata Set
 ![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Basic_IO_and_Arithmetic/4.Add_Three_Numbers/p4_testdata)
