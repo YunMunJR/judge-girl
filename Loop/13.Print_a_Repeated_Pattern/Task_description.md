@@ -1,0 +1,16 @@
+# Task Description
+Write a program to read a positive integer $n$, then go through $n$ phases. During the $i$-th phase, the program will print an integer<br>sequence from 1 to $i$.
+# Input Format
+There is one line in the input. The first line has the integer $n$.
+# Output Format
+There is one line in the output according to the description.
+# Sample Input
+```
+5
+```
+# Sample Output
+```
+112123123412345
+```
+# Testdata Set
+![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/15.Print_Backward_to_1/p15_testdata)
