@@ -19,4 +19,4 @@ There are two lines in the output, according to the description.
 # 特別注意
 - 若在行尾輸出 多餘的空白字元，你將會得到 Wrong Answer
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/16.Even_and_Odd/p16_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/16.Even_and_Odd/p16_testdata)
