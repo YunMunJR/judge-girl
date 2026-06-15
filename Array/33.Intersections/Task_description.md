@@ -27,4 +27,4 @@ There are four lines in the output. These four lines has the number of intersect
 1
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/33.Intersections/p33_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/33.Intersections/p33_testdata)
