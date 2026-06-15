@@ -36,4 +36,4 @@ The output has $2(W+D)$ lines, and each line has one number. The number in the $
 10
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/204.House_of_Mirrors/p204_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/204.House_of_Mirrors/p204_testdata)
