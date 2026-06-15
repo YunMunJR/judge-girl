@@ -1,10 +1,10 @@
 # Task Description
 Given four different points on the plane, determine the shape of this polygon. There are several cases.<br>
-- If the length of the four sides are the same, and the four angles are right, then it is a square. For example, the polygon by<br>$(−1,0)$,$(0,1)$,$(1,0)$,$(0,−1)$ is a square.
-- If the length of the four sides are the same, but the four angles are not right angle, then it is a diamond. For example, polygon<br>by $(−2,0)$,$(0,1)$,$(2,0)$,$(0,−1)$ is a diamond.
-- If the length of the four sides are not the same, but the four angles are right angle, then it is a rectangle. For example, polygon<br>by $(0,0)$,$(0,1)$,$(2,1)$,$(2,0)$ is a rectangle.<br>
+- If the length of the four sides are the same, and the four angles are right, then it is a square. For example, the polygon by<br>$(−1,0),(0,1),(1,0),(0,−1)$ is a square.
+- If the length of the four sides are the same, but the four angles are not right angle, then it is a diamond. For example, polygon<br>by $(−2,0),(0,1),(2,0),(0,−1)$ is a diamond.
+- If the length of the four sides are not the same, but the four angles are right angle, then it is a rectangle. For example, polygon<br>by $(0,0),(0,1),(2,1),(2,0)$ is a rectangle.<br>
 給定平面上四個點，它們彼此不共點，請判斷這個多邊形的形狀，有以下三種可能：<br>
-- 如果四邊長度相同以及角度為直角，它們即是正方形，如多邊形 $(−1,0)$,$(0,1)$,$(1,0)$,$(0,−1)$ 就是個正方形。
+- 如果四邊長度相同以及角度為直角，它們即是正方形，如多邊形 $(−1,0),(0,1),(1,0),(0,−1)$ 就是個正方形。
 - 如果四邊長度相同但角度不是直角，它們即是菱形，如多邊形 $(−2,0),(0,1),(2,0),(0,−1)$ 就是個菱形。
 - 如果四邊長度不同且四個角均是直角，它們即是長方形，如 $(0,0),(0,1),(2,1),(2,0)$ 就是個長方形。
 - 不屬於上述三者，請回報 `other` <br>
