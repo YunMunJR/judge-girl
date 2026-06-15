@@ -22,4 +22,4 @@ Please output $N+1$ lines -- each has a fractional number. The $i$-line has the 
 # Hint
 In order to prevent arithmetic overflow, you should reduce the denominator and numerator of each fractional number you use.
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/235.Pachinko/p235_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/235.Pachinko/p235_testdata)
