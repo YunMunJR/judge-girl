@@ -6,7 +6,7 @@ Note that by our rules two balls exchanging positions do not collide. I know thi
 # Limits
 - $5<X,Y<300$
 # Input
-The input are $X$,$Y$,x<sub>1</sub>,y<sub>1</sub>,x<sub>2</sub>,y<sub>2</sub>,dx<sub>1</sub>,dy<sub>1</sub>,dx<sub>2</sub>,dy<sub>2</sub>, and the number of seconds you need to simulate.
+The input are $X$, $Y$, x<sub>1</sub>, y<sub>1</sub>, x<sub>2</sub>, y<sub>2</sub>, dx<sub>1</sub>, dy<sub>1</sub>, dx<sub>2</sub>, dy<sub>2</sub>, and the number of seconds you need to simulate.
 # Output
 The output is the final position of these two balls, in x<sub>1</sub>,y<sub>1</sub>,x<sub>2</sub>,y<sub>2</sub> order.
 # Sample input
