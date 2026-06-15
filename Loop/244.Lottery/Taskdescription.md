@@ -27,4 +27,4 @@ The output is the sum of the dollars from all lottery numbers.
 204000
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/244.Lottery/p244_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/244.Lottery/p244_testdata)
