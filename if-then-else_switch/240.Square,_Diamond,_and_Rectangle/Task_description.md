@@ -31,7 +31,7 @@ rectangle
 other
 ```
 # Hint
-You can easily check whether an angle is a right angle by Pythagorean theorem - $a^{2}$+$b^{2}$=$c^{2}$. <br>
+You can easily check whether an angle is a right angle by Pythagorean theorem - $a^{2}$ + $b^{2}$ = $c^{2}$. <br>
 你可以使用向量外積的正負號，讓輸入的點按照順或逆時針的方式排列。
 # Testdata Set
 ![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/if-then-else_switch/240.Square%2C_Diamond%2C_and_Rectangle/p240_testdata)
