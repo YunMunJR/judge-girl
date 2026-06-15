@@ -44,4 +44,4 @@ the number of integers which can be written as $M⋅k,M⋅k+1$, ... and $M⋅k+M
 3
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/74.Mn%2CMn%2B1%2C...Mn%2BM-1/p74_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/74.Mn%2CMn%2B1%2C...Mn%2BM-1/p74_testdata)
