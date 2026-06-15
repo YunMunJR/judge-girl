@@ -17,4 +17,4 @@ There is one lines in the output. The first line has all the integers of the lon
 # Special Thanks
 感謝 B05902052 劉家維 同學增加測資
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/32.Longest_Double_Palindrome/p32_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/32.Longest_Double_Palindrome/p32_testdata)
