@@ -1,6 +1,6 @@
 # Task Description
 Write a program to simulate a Pachinko. For this problem, we will use a very simple pachinko. There are $N$ rows of pins in this<br>pachinko. The $i$-th pin of a row is between the $i$-th and $(i−1)$-th pin in the previous row, as shown in the figure below. When a ball<br>drops on a pin, it will go either left or right. This probability varies from pin to pin. After hitting $N$ pins, the ball will fall into one<br>of the $N+1$ buckets. After knowing the probability of going left or right for every pin, compute the probability that a ball falls into<br>each $N+1$ bucket.
-- The number of rows of pins $N$ is less than or equal to 15.
+- The number of rows of pins $N$ is less than or equal to 15. <br>
 ![p235.png](p235.jpg)
 # Input
 The first line of the input has the number of rows $N$. The next $N(N+1)/2$ line has two integers $a$, $b$, that indicate the ratio of the<br>probability that the ball will go left or right. The probability ratio is given from top to bottom, from left to right. $a,b≥0$, and it is<br>guaranteed that one of $a,b>0$.
