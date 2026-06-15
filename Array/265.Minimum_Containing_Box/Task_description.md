@@ -19,4 +19,4 @@ The final area.
 253
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/265.Minimum_Containing_Box/p265_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/265.Minimum_Containing_Box/p265_testdata)
