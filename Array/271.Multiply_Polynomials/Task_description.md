@@ -18,4 +18,4 @@ The output is the coefficients of the product of the two input polynomials $f(x)
 4 13 28 34 32 21
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/271.Multiply_Polynomials/p271_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/271.Multiply_Polynomials/p271_testdata)
