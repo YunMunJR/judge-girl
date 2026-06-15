@@ -42,4 +42,4 @@ invalid
 "=====================\n"
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/36.Calender/p36_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/36.Calender/p36_testdata)
