@@ -23,4 +23,4 @@ The is $n$ output lines, and each line has an integer, which is the day of the t
 -2
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/232.What_day_is_Today%3F/p232_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/232.What_day_is_Today%3F/p232_testdata)a
