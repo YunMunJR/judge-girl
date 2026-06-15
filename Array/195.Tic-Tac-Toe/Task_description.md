@@ -19,4 +19,4 @@ Print a line contains `Black wins.` or `White wins.` or `There is a draw.`.
 There is a draw.
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/195.Tic-Tac-Toe/p195_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/195.Tic-Tac-Toe/p195_testdata)
