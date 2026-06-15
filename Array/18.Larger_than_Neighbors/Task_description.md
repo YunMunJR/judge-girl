@@ -19,4 +19,4 @@ There are $k$ lines in the output, where $k$ is the number of elements that are 
 6
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/18.Larger_than_Neighbors/p18_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/18.Larger_than_Neighbors/p18_testdata)
