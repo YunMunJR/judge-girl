@@ -20,4 +20,4 @@ You should output $m$ lines. The i'th line must consists of three numbers, which
 16 14 2
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/49.Sum%2C_Maximum_and_Minimum/p49_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/49.Sum%2C_Maximum_and_Minimum/p49_testdata)
