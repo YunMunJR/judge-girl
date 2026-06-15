@@ -24,4 +24,4 @@ The output has $n$ lines. The $i$-th line is the number of bicycles in the $i$-t
 2
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/97.Bicycle_and_Parking_Lot/p97_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/97.Bicycle_and_Parking_Lot/p97_testdata)
