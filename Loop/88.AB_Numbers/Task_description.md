@@ -1,0 +1,16 @@
+# Task Description
+Determine the $A$ and $B$ values for two input numbers. You have two numbers, each consisting of 4 different digits from 1 to 9. You<br>should determine two values. The $A$ value is the number of digits that are the same and appear in the same locations. For example,<br>the $A$ value of `1234` and `1253` is two since both 1 and 2 are the same and appear in the same locations. The $B$ value is the<br>number of digits that are the same but appear in different locations. For example, the $B$ value of `1234` and `1253` is 1, since 3<br>appears in both numbers but appears in different locations.
+# Input Format
+Two numbers in a line to determine the $A$ and $B$ values. Both numbers consist of 4 different non-zero digits.
+# Output Format
+A single string of `n A m B` where n is the $A$ value and m is the $B$ value determined for the input.
+# Sample Input
+```
+1234 1345
+```
+# Sample Output
+```
+1A2B
+```
+# Testdata Set
+![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/88.AB_Numbers/p88_testdata)
