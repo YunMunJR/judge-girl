@@ -19,4 +19,4 @@ There are $c$ lines in the output. The $i$-th line has the average of the $i$-th
 4
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/74.Mn%2CMn%2B1%2C...Mn%2BM-1/p74_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/74.Mn%2CMn%2B1%2C...Mn%2BM-1/p74_testdata)
