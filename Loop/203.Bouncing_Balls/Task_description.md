@@ -31,4 +31,4 @@ The output is the final position of these two balls, in x<sub>1</sub>,y<sub>1</s
 6
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/203.Bouncing_Balls/p203_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Loop/203.Bouncing_Balls/p203_testdata)
