@@ -26,4 +26,4 @@ Blob
 3 Alice Blob
 ```
 # Testdata Set
-![Testdat_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/99.Bingo/p99_testdata)
+![Testdata_Set](https://github.com/YunMunJR/judge-girl/tree/main/Array/99.Bingo/p99_testdata)
